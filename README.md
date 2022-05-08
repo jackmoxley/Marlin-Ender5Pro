@@ -1,3 +1,7 @@
+# Notice
+This is my personal version of the Marlin Firmware for my ender 5 Pro, It has specific upgrades such as the BLTouch, and a microswiss all metal hotend and direct drive.
+As per the [GPL license](/LICENSE) I am making thses changes publicly available. You are more than welcome to fork this project or copy code as per the licence, however I recommend forking directly off the [original](/https://github.com/MarlinFirmware/Marlin) As unless you have the exact same setup you may break things. I accept no liability or responsibility for how you use this repo.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
